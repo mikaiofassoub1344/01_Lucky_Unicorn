@@ -1,3 +1,0 @@
-# get name until an exit code is entereds...
-
-name = " "
